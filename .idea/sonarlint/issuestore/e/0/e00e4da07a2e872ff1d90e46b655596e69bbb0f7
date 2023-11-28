@@ -1,0 +1,13 @@
+
+_
+java:S2259%"BA "NullPointerException" could be thrown; "data" is nullable here.(ãÓ‚Ð8‰Ó²†Á1
+Q
+java:S1172"/Remove this unused method parameter "kotlecik".(³°–èýÿÿÿÿ8œÓ²†Á1
+f
+java:S1874""JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8¬Ó²†Á1
+T
+java:S1854%"7Remove this useless assignment to local variable "bun".(ãÓ‚Ð8¬Ó²†Á1
+V
+java:S1161"":Add the "@Override" annotation above this method signature(¹Î¾8¬Ó²†Á1
+E
+java:S1481%"(Remove this unused "bun" local variable.(ãÓ‚Ð8¬Ó²†Á1

@@ -1,0 +1,13 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "klucz".(±ç¢òüÿÿÿÿ8ÁöË‡Á1
+V
+java:S1854&"9Remove this useless assignment to local variable "tekst".(Ğ„¯Ü8ÂöË‡Á1
+[
+java:S1117"9Rename "klucz" which hides the field declared at line 20.(±ç¢òüÿÿÿÿ8ÈöË‡Á1
+L
+java:S1481"*Remove this unused "klucz" local variable.(±ç¢òüÿÿÿÿ8ÊöË‡Á1
+G
+java:S1481&"*Remove this unused "tekst" local variable.(Ğ„¯Ü8ÍöË‡Á1
+H
+java:S1172+"+Remove this unused method parameter "view".(‚¹î8ÏöË‡Á1
